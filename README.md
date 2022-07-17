@@ -20,6 +20,6 @@ Instructions for use:
 Languages: HTML/CSS, Javascript<br/>
 Technologies: React.js, jQuery, Bootstrap
 
-Link: https://jeopardy-clue-generator.av1124.repl.co/
+Link to working example: https://jeopardy-clue-generator.av1124.repl.co/
 
 ![img](https://user-images.githubusercontent.com/72053963/179375744-c777b285-0d4c-4bc0-a585-ec87c9f2027d.png)
