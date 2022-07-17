@@ -18,3 +18,5 @@ Instructions for use:
 3. Use the counter to keep track of how many questions you answered correctly or incorrectly.
 
 Link: https://jeopardy-clue-generator.av1124.repl.co/
+
+![img](https://user-images.githubusercontent.com/72053963/179375744-c777b285-0d4c-4bc0-a585-ec87c9f2027d.png)
