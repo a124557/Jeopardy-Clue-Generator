@@ -17,7 +17,7 @@ Instructions for use:
 2. Click "Show Answer" when ready to reveal the answer. After the "New Question" button is clicked, the answer is hidden again.
 3. Use the counter to keep track of how many questions you answered correctly or incorrectly.
 
-Languages: HTML/CSS, Javascript
+Languages: HTML/CSS, Javascript<br/>
 Technologies: React.js, jQuery, Bootstrap
 
 Link: https://jeopardy-clue-generator.av1124.repl.co/
