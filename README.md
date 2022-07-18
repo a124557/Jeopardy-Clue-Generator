@@ -1,6 +1,6 @@
 # Jeopardy Clue Generator
 
-This web application consumes the jservice.io API. 
+This web application consumes the (jservice.io)[http://jservice.io/] API. 
 
 Features included:
 
