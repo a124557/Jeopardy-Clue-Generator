@@ -14,7 +14,7 @@ This web application consumes the [jservice.io](http://jservice.io/) API.
 ### Build Instructions:
 
 1. Navigate to the working directory in your terminal
-2. Ensure you have node.js and nodemon on your system
+2. Ensure you have node.js and nodemon installed on your system
 3. Run the command: 'nodemon app.js'
 4. Navigate to 'localhost:3000' in your web browser to access the app
 
