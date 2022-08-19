@@ -16,6 +16,7 @@ Instructions for use:
 1. Click on "New Question" for a new question to be fetched, and displayed on the screen.
 2. Click "Show Answer" when ready to reveal the answer. After the "New Question" button is clicked, the answer is hidden again.
 3. Use the counter to keep track of how many questions you answered correctly or incorrectly.
+4. A
 
 Languages: HTML/CSS, Javascript<br/>
 Technologies: React.js, jQuery, Bootstrap
