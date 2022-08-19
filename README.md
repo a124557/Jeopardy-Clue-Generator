@@ -2,7 +2,7 @@
 
 This web application consumes the [jservice.io](http://jservice.io/) API. 
 
-Features included:
+### Features included:
 
 1. View random clues
 2. Change question via a button click
@@ -11,7 +11,15 @@ Features included:
 5. Show/hide answer via a button click
 6. Counter for tracking the number of questions correctly/incorrectly answered
 
-Instructions for use:
+### Build Instructions:
+
+1. Navigate to the working directory in your terminal
+2. Ensure you have node.js and nodemon on your system
+3. Run the command: 'nodemon app.js'
+4. Navigate to 'localhost:3000' in your web browser to access the app
+
+
+### Instructions for use:
 
 1. Click on "New Question" for a new question to be fetched, and displayed on the screen.
 2. Click "Show Answer" when ready to reveal the answer. After the "New Question" button is clicked, the answer is hidden again.
