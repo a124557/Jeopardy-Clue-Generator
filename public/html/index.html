@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+  <head>
+    <title>Untitled-1</title>
+    <link rel="icon" type="image/x-icon" href="./assets/favicon.ico" />
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.2/css/bootstrap.min.css'>
+    <link rel="stylesheet" href="http://localhost:3000/css/style.css" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  </head>
+
+  <body>
+    <script src="https://unpkg.com/react@17/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.3/js/bootstrap.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js'></script>
+    <script src='https://kit.fontawesome.com/07f4709870.js'></script>
+    <!-- Babel Script -->
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+     <div class="container-fluid">
+
+        <div class="row d-flex justify-content-center">
+            <div class="col-2" id="categoryTitle">
+                <h1 class="text-center">
+                    Categories <h1>
+                        <h5 class="text-center" id="currentCategory"> </h5>
+            </div>
+            <div class="col-6 mx-3">
+                <h1 class="text-center">Jeopardy Clue Generator <h2>
+            </div>
+            <div class="col-2" id="counter">
+                <h1 class="text-center mb-5"> Counter</h1>
+            </div>
+        </div>
+
+        <div id="clueHolder">
+
+        </div>
+
+        <div class = "row d-flex justify-content-center align-items-center">
+
+            <div class="offset-3 col-6">
+                <p class="text-center mt-4">
+                    Instructions:
+                </p>
+                <p class="text-center">
+                    1. Click on "New Question" for a new question to be fetched, and displayed on the screen.
+                </p>
+                <p class="text-center">
+                    2. Click "Show Answer" when ready to reveal the answer. After the "New Question" button
+                    is clicked, the answer is hidden again.
+                </p>
+                <p class="text-center">
+                    3. Use the counter to keep track of how many questions you answered correctly or
+                    incorrectly.
+                </p>
+                <br />
+                <p class="text-center small">Data pulled from: https://jservice.io/</p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    
+    <script src="http://localhost:3000/js/script.jsx" type="text/jsx"></script>
+
+  </body>
+</html>
